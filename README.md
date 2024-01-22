@@ -1,5 +1,5 @@
 ![Brief-5](Brief-5.jpg "Brief-5")
-# BRIEF 3
+# BRIEF 5
 ## Développer une API REST pour exposer un modèle prédictif avec des données immobilières
 
 ### Récupération d'un modèle ML et développement d'une API pour l'exposer.

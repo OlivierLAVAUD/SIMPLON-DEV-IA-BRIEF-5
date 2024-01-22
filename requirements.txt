@@ -1,0 +1,30 @@
+
+
+
+
+installer 
+
+git checkout
+git push - u origin
+
+git clone git@github.com:Sandalcho7/simplon_brief06_yahtzee.git
+git clone git@github.com:fdeage/test_merge.git
+https://github.com/fdeage/test_merge.git
+
+tig 
+
+ git checkout olv
+ 
+ tig --all
+ git pull --ff-only
+ git merge origin/main
+ 
+ git merge olv
+ git push
+ 
+ 
+ git cherry-pick eff9f8
+  git checkout olv
+  
+  
+  git reset --hard HEAD^
